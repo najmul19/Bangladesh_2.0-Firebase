@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607975176468",
+    "project_id": "bangladesh-2o",
+    "storage_bucket": "bangladesh-2o.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607975176468:android:3f67776c5e6931ac35aa01",
+        "android_client_info": {
+          "package_name": "com.example.experiment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8vpLFwYtaH_EXU977MpBk7eOBcLQIilU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
